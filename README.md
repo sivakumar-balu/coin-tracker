@@ -1,2 +1,2 @@
 # coin-tracker
-React Native app with Expo-CLI to display Cryto Coins from Coin Gecko API
+React Native app with Expo-CLI to display Crypto Coins from Coin Gecko API
